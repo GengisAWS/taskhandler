@@ -27,6 +27,6 @@ The CORS issue has been resolved by:
    - Server errors
    - Empty responses (204)
 
-The API should now be accessible from the CloudFront domain (https://dmmp2t4jbu3j4.cloudfront.net).
+The API should now be accessible from the CloudFront domain (XXXX).
 
 Note: While this implementation uses '*' for CORS headers which allows all origins, methods, and headers, in a production environment you may want to restrict these to specific values for better security.
