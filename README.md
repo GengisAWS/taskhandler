@@ -1,4 +1,11 @@
 # DevFlow Task Management Application
+This README.md was generated using Amazon Q developer and serve as a sample.
+All the code present in this repository was generated using Amazon Q developer and is not to be used/deployed in production.
+
+you can find the blog article discussing the building of this solution here: https://community.aws/content/2p73nqxh4q5VwCQDA8bQqgaLsdA/all-the-new-things-q-developer-can-do
+
+if you want to understand the prompting flow:
+![Alt text](./promptflow-amazonQ.png?raw=true "Amazon Q promptflow")
 
 A serverless task management application built with AWS CDK and Lambda functions.
 
